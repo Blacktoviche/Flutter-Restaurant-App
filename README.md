@@ -1,6 +1,10 @@
-# ecommerce
+# Flutter Restaurant App
 
-A new Flutter project.
+![](https://raw.githubusercontent.com/Blacktoviche/Flutter-Restaurant-App/master/main_page.gif) ![](https://raw.githubusercontent.com/Blacktoviche/Flutter-Restaurant-App/master/account_ss.png) 
+
+
+This App uses an online backend which I developed using Java/Spring framework
+
 
 ## Getting Started
 
